@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CarController : MonoBehaviour
+public class Kart_Controller : MonoBehaviour
 {
     private float horizontalInput;
     private float verticalInput;
